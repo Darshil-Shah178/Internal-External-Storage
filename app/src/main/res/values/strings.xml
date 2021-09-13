@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Internal-External Storage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data">data</string>
+    <string name="write_file">write file</string>
+    <string name="fetch_data">fetch data</string>
+    <string name="file_content">File Content:</string>
+    <string name="input_something_here">Input something here:</string>
+    <string name="save_data">Save data</string>
+    <string name="read_file">Read File</string>
+</resources>
